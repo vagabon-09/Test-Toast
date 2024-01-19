@@ -1,6 +1,3 @@
-import io.grpc.internal.SharedResourceHolder.release
-import org.apache.http.entity.ContentType.create
-
 plugins {
     id("com.android.library")
     id("maven-publish")
